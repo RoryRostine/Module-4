@@ -3,17 +3,17 @@ body{
 }
 
 .rgb{
-  color: rgb(100%, 40%, 10%);
+  color: rgb(100%, 40%, 10%) ;
 }
 
 .rgba{
-  color: rgba(100%, 40%, 10%, .1);
+  color: rgba(100%, 40%, 10%, .1) ;
 }
 
 .hsl{
-  color: hsl(370, 100%, 50%);
+  color: hsl(370, 100%, 50%) ;
 }
 
 .hsla{
-  color: hsla(370, 100%, 50%, .5);
+  color: hsla(370, 100%, 50%, .5) ;
 }
